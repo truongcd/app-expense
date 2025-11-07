@@ -1,0 +1,5 @@
+{
+  "name": "Trình Quản Lý Chi Tiêu",
+  "description": "Một ứng dụng web để theo dõi chi tiêu hàng tháng. Người dùng có thể thêm, xem, và xóa các khoản chi tiêu. Ứng dụng cũng cung cấp tính năng lọc theo danh mục và tháng để quản lý tài chính dễ dàng hơn.",
+  "requestFramePermissions": []
+}
